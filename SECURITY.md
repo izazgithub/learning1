@@ -1,5 +1,5 @@
 # Security Policy
-report me for any security vulnerabilities.
+Report me for any security vulnerabilities.
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
